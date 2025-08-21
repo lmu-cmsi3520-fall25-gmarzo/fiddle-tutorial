@@ -1,4 +1,4 @@
-**CMSI 3520** Database Systems, Fall 2022
+**CMSI 3520** Database Systems, Fall 2025
 
 # Assignment 0908
 
